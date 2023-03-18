@@ -1,6 +1,6 @@
-let music = new Audio("music.mp3")
-let turnMusic = new Audio("ting.mp3")
-let gameOverMusic = new Audio("gameover.mp3")
+let music = new Audio("./images/music.mp3")
+let turnMusic = new Audio("./images/ting.mp3")
+let gameOverMusic = new Audio("./images/gameover.mp3")
 let turn = 'X'
 let isGameOver = false
 
